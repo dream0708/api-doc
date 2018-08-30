@@ -175,3 +175,5 @@ sql在这里 [src/main/resources/db/sql.sql](src/main/resources/db/sql.sql)
 
 # 欢迎加入群交流
 点击链接加入群聊【web开发交流群 317896269】：https://jq.qq.com/?_wv=1027&k=55PiekD
+#### 支付宝扫码，你会获得2毛到99元现金，同时会给我捐赠几分钱，请我喝个茶吧，谢谢
+![](https://images.gitee.com/uploads/images/2018/0830/135038_45d6b347_929906.png "屏幕截图.png")
